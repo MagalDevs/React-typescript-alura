@@ -8,7 +8,7 @@ Cada curso da formação tem uma branch específica. Para acessar o código de u
 
 ### 📌 Cursos disponíveis:
 
-1. *[React: escrevendo com Typescript](https://github.com/MagalDevs/React-typescript-alura)*
+1. *[React: escrevendo com Typescript](https://github.com/MagalDevs/React-typescript-alura/tree/React-Escrevendo-com-Typescript)*
 
 
 ## 🚀 Como utilizar este repositório?
