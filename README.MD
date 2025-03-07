@@ -15,25 +15,20 @@ Cada curso da formação tem uma branch específica. Para acessar o código de u
 
 1. Clone o repositório:
    bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/MagalDevs/React-typescript-alura
    
-
-2. Acesse o repositório:
-   bash
-   cd seu-repositorio
    
-
-3. Troque para a branch desejada:
+2. Troque para a branch desejada:
    bash
    git checkout nome-da-branch
    
 
-4. Instale as dependências:
+3. Instale as dependências:
    bash
    npm install
    
 
-5. Inicie o projeto:
+4. Inicie o projeto:
    bash
    npm start
    
