@@ -1,12 +1,14 @@
+import { Itarefa } from '../../../types/Tarefa'
 import style from '../Lista.module.scss'
 
 
 
-function Item(props: {tarefa: string, tempo: string}) {
+function Item({tarefa, tempo, selecionado, completado, id}: Itarefa) {
+  console.log({tarefa, tempo, selecionado, completado, id});
   return (
     <li className={style.item}>  
-        <h3>{props.tarefa}</h3> 
-        <span>{props.tempo}</span>
+        <h3>{tarefa}</h3> 
+        <span>{tempo}</span>
     </li>
   )
 }
